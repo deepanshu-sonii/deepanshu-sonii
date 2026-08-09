@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Deepanshu Soni
 
-🎓 Final Year BCA Student  
+🎓 BCA Graduated from Gurugram University 
 💻 Full Stack Web Developer (Python)
 
 ---
 
 ## 🚀 About Me
-- 🎓 Currently pursuing **BCA (Final Year)**
+- 🎓 Currently looking for  **Entry-level Jobs.**
 - 🌱 Learning and building projects in **Full Stack Web Development**
 - 💡 Passionate about creating responsive and user-friendly web applications
 - 🔍 Actively improving my skills in backend & frontend technologies
@@ -14,6 +14,8 @@
 ---
 
 ## 🛠️ Tech Stack
+- MERN Stack
+- Python Full Stack
 
 ### 🌐 Frontend
 - HTML5
@@ -21,37 +23,31 @@
 - JavaScript
 - React.js
 - Bootstrap
+- Tailwind CSS
 
 ### ⚙️ Backend
 - Python
 - Django
 
 ### 🗄️ Database
-- SQLite / (You can add MySQL/PostgreSQL if you use them)
-
----
-
-## 📌 Projects
-*(Add your projects here later)*
-
-- 🔹 Project Name 1 – Short description  
-- 🔹 Project Name 2 – Short description  
+- MySQL
+- SQLite
 
 ---
 
 ## 📈 GitHub Stats
-![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepanshu-sonii&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=deepanshu-sonii&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/deepanshu-sonii/
+- 📧 Email: deepanshusoni.1563@gmail.com
 
 ---
 
